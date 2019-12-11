@@ -1,0 +1,17 @@
+<code_scheme name="Default" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </value>
+  </option>
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="m.tag" />
+      </array>
+    </option>
+    <option name="collectImports" value="false" />
+    <option name="INDENT_FIRST_PARAMETER" value="false" />
+  </ScalaCodeStyleSettings>
+</code_scheme>

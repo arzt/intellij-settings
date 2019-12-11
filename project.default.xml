@@ -1,0 +1,63 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/code-challenge/anna-michak/consumer" value="PREVIEW" />
+            <entry key="$USER_HOME$/code-challenge/gennady-shabanov/SimplaexGennadyShabanov" value="PREVIEW" />
+            <entry key="$USER_HOME$/code-challenge/mangat-rai/aggregation-consumer" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/code-challenge/akash-sethi" value="PREVIEW" />
+            <entry key="$USER_HOME$/code-challenge/albert-razquin-zafra/test-simplaex" value="PREVIEW" />
+            <entry key="$USER_HOME$/code-challenge/aleksandr-litvinenko/Aleksandr_Litvinenko_code" value="PREVIEW" />
+            <entry key="$USER_HOME$/code-challenge/bruno-rossi/akka-streams-proc/akka-streams-proc" value="PREVIEW" />
+            <entry key="$USER_HOME$/code-challenge/facundo-olivera/faolivera-scravyex" value="PREVIEW" />
+            <entry key="$USER_HOME$/code-challenge/oleksandr-chugunov/realtime-csv-analyzer" value="PREVIEW" />
+            <entry key="$USER_HOME$/code-challenge/vadim-nazaryants" value="PREVIEW" />
+            <entry key="$USER_HOME$/code-challenge/vito-ressa" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/dotty-test/dotty-project-template" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/pepbidder" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/pepenrich" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/peptasks" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/rivr-spark" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/rivr-spark-new" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/rivr-spark-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/scala-code" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/scala-collection-compat" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/scala-primer" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/scala-tensor" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/workshops/fold-unfold/slate" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
