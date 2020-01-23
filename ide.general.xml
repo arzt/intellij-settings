@@ -11,7 +11,6 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tooltip.initialDelay" value="401" />
-    <entry key="debugger.showTypes" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
