@@ -1,6 +1,6 @@
 <application>
   <component name="RMirrorCache">
-    <option name="lastUpdate" value="1579190275991" />
+    <option name="lastUpdate" value="1580740907376" />
     <option name="mirrors">
       <list>
         <RSerializableMirror>
@@ -118,6 +118,10 @@
         <RSerializableMirror>
           <option name="name" value="Colombia (Cali)" />
           <option name="url" value="https://www.icesi.edu.co/CRAN/" />
+        </RSerializableMirror>
+        <RSerializableMirror>
+          <option name="name" value="Costa Rica" />
+          <option name="url" value="https://mirror.uned.ac.cr/cran/" />
         </RSerializableMirror>
         <RSerializableMirror>
           <option name="name" value="Czech Republic" />
@@ -240,10 +244,6 @@
           <option name="url" value="http://healthstat.snu.ac.kr/CRAN/" />
         </RSerializableMirror>
         <RSerializableMirror>
-          <option name="name" value="Korea (Ulsan)" />
-          <option name="url" value="https://cran.biodisk.org/" />
-        </RSerializableMirror>
-        <RSerializableMirror>
           <option name="name" value="Malaysia" />
           <option name="url" value="https://wbc.upm.edu.my/cran/" />
         </RSerializableMirror>
@@ -282,10 +282,6 @@
         <RSerializableMirror>
           <option name="name" value="Russia" />
           <option name="url" value="https://cran.cmm.msu.ru/" />
-        </RSerializableMirror>
-        <RSerializableMirror>
-          <option name="name" value="Singapore (Singapore)" />
-          <option name="url" value="https://cran.stat.nus.edu.sg/" />
         </RSerializableMirror>
         <RSerializableMirror>
           <option name="name" value="South Africa (Cape Town)" />
@@ -334,10 +330,6 @@
         <RSerializableMirror>
           <option name="name" value="UK (London 1)" />
           <option name="url" value="https://cran.ma.imperial.ac.uk/" />
-        </RSerializableMirror>
-        <RSerializableMirror>
-          <option name="name" value="USA (CA)" />
-          <option name="url" value="https://cran.cnr.berkeley.edu/" />
         </RSerializableMirror>
         <RSerializableMirror>
           <option name="name" value="USA (IA)" />
