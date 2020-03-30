@@ -8,6 +8,7 @@
       <mapping pattern="s3_folder_sensor.py" type="PLAIN_TEXT" />
       <mapping pattern="feedback" type="PLAIN_TEXT" />
       <mapping pattern="sui" type="PLAIN_TEXT" />
+      <mapping pattern="gumgum_ml_hourly_flow_v2_rvr_3477.py" type="PLAIN_TEXT" />
       <mapping pattern="Jenkisfile" type="PLAIN_TEXT" />
       <mapping ext="conf2" type="PLAIN_TEXT" />
       <mapping ext="ip" type="PLAIN_TEXT" />
